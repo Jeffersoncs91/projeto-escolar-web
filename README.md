@@ -8,6 +8,10 @@
 6. Pagina inicial
 
 index.html
+
+
 style.css
+
+
 main.js
 
