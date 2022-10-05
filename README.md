@@ -7,11 +7,14 @@
 5. Tela de aluno
 6. Pagina inicial
 
+```
 index.html
+```
 
-
+```
 style.css
+```
 
-
+```
 main.js
-
+```
