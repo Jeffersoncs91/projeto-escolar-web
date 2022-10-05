@@ -1,7 +1,34 @@
-# SISTEMA ESCOLAR 
+ <h1>SISTEMA ESCOLAR</h1>
 
-1. Status do projetos: Em desenvolvimento
-2. Pagina de cadastro 
+<h2>1. Status do projetos: Em desenvolvimento</h2>
+
+    I. Formando equipe. 
+    
+        * Front
+        * Back
+        * DBA
+        
+    II. Equipe atividade
+   
+       * Front ("Carla")
+       * Back  ("Jefferson e Carla")
+       * DBA   ("Luciano")
+       
+<h2>2. Pagina de cadastro</h2>
+
+    I. Front ("Carla")
+    
+        * Layout de formularios
+   II. Back ("Jefferson e Carla")
+   
+        * Animação
+        * Seguraça 
+   III. DBA ("Luciano")
+   
+        * ADM DBA
+        * Cadastro de Usuários
+        * Autenticação
+        
 3. Pagina de login
 4. Tela professor 
 5. Tela de aluno
